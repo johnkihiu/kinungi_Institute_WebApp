@@ -1,9 +1,4 @@
-# kinungi_Institute_WebApp
-We have splited the job as follows :
 
-Landing page - Timooh 
-Academics page - John 
-Admissions pg - Paul 
 About Us pg - Ayub 
 Financial page - Ianooh
 Library pg - Philip 
